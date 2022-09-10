@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">the movieDB</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="overview">overview</string>
+    <string name="something_wrong">Something Wrong</string>
+    <string name="no_data">No Data</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="menu_favorite">Menu Favorite</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="popularity">Popularity</string>
+</resources>
