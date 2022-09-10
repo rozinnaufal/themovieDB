@@ -1,13 +1,12 @@
+# Use the latest 2.1 version of CircleCI pipeline process engine. See: https://circleci.com/docs/2.0/configuration-reference
 version: 2.1
- 
+# Use a package of configuration called an orb.
 orbs:
-  android: circleci/android@1.0
- 
+  android: circleci/android@0.2.1
+# Orchestrate or schedule a set of jobs
 jobs:
   build:
     executor: android/android
-    environment:
-      GRADLE_OPTS: -Xmx1536m -XX:+HeapDumpOnOutOfMemoryError -Dorg.gradle.caching=true -Dorg.gradle.configureondemand=true -Dkotlin.compiler.execution.strategy=in-process -Dkotlin.incremental=false
     steps:
       - checkout
       - restore_cache:
@@ -24,14 +23,14 @@ jobs:
             - ~/.android/build-cache
             - ~/.android/cache
       - run:
-          name: Delete Daemon Folder
-          command: rm -fr ~/.gradle/daemon/
+          name: Run Build
+          command: ./gradlew build
       - store_artifacts: 
           path: app/build/reports
           destination: reports
       - run:
-          name: Run Build
-          command: ./gradlew build --no-daemon
+          name: Run Tests
+          command: ./gradlew lint test
       - store_test_results:
           path: app/build/test-results
       - store_artifacts:  
