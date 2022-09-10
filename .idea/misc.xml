@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/drawable/home.xml" value="0.1235" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1225" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/drawable/ic_favorite.xml" value="0.1225" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/drawable/ic_favorite_white.xml" value="0.1235" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1225" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/drawable/ic_notfavorite.xml" value="0.1" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/content_detail_movie.xml" value="0.1" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/fragment_dashboard.xml" value="0.17753623188405798" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/fragment_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/fragment_favorite.xml" value="0.15670289855072464" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/fragment_home.xml" value="0.17753623188405798" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/fragment_notifications.xml" value="0.25" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/fragment_search.xml" value="0.33" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/item_row_movie.xml" value="0.25" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/item_row_search.xml" value="0.25" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/view_empty.xml" value="0.1" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/view_eror.xml" value="0.15670289855072464" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/layout/view_error.xml" value="0.15670289855072464" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/core/src/main/res/layout/item_row_movie.xml" value="0.19010416666666666" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/favorite/src/main/res/layout/fragment_favorite.xml" value="0.20416666666666666" />
+        <entry key="..\:/03-FILE ANDROID STUDIO/ANDROID EXPERT/themovieDB/favorite/src/main/res/layout/view_empty.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID EXPERT/themovieDB/app/src/main/res/layout/fragment_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID EXPERT/themovieDB/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID EXPERT/themovieDB/app/src/main/res/layout/item_row_movie.xml" value="0.20416666666666666" />
+        <entry key="..\:/themovieDB/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/themovieDB/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/themovieDB/app/src/main/res/layout/item_row_movie.xml" value="0.17074275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
