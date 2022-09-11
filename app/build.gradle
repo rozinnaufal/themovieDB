@@ -100,4 +100,7 @@ dependencies {
     //data store
     implementation "androidx.datastore:datastore-preferences:1.0.0"
     implementation 'androidx.navigation:navigation-dynamic-features-fragment:2.5.2'
+
+    //leak canary
+    debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.4'
 }
